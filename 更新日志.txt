@@ -1,5 +1,7 @@
-2018年5月19日
+2018年9月9日
 添加GDI+图像编码器CLSID常量
+更正SwitchToThisWindow函数的说明信息
+修正版本检测策略和其它bug
 
 2018年5月18日
 添加GdipGetImageEncoders传值版本声明，兼容vb使用
